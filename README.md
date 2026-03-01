@@ -9,8 +9,4 @@
     <img alt="pacman contribution graph"
       src="https://raw.githubusercontent.com/k-eyu/k-eyu/output/pacman-contribution-graph.svg" width="48%" />
   </picture>
-
-  <img
-    src="https://raw.githubusercontent.com/k-eyu/k-eyu/main/profile-3d-contrib/profile-night-rainbow.svg"
-    width="48%" />
 </p>
